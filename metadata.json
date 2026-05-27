@@ -1,0 +1,6 @@
+{
+  "name": "WealthSync",
+  "description": "An AI-guided goal-based financial planner with milestones, rebalancing, portfolio tracking, and tax-efficient strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
